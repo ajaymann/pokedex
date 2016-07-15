@@ -1,0 +1,6 @@
+framework module Pods_pokedex_ajay {
+  umbrella header "Pods-pokedex-ajay-umbrella.h"
+
+  export *
+  module * { export * }
+}
